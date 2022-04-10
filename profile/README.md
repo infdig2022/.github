@@ -11,4 +11,4 @@
 | Foteini Basia | 2101 | [foteinibasia](https://github.com/FOTEINIBASIA)
 | Georgios Bounias | 2113 | [georgiosbounias](https://github.com/georgiosbounias) | 
 | Giannis Kontinis | 2109 | [p09kont](https://github.com/p09kont) | 
-| Kostas Panagiotopoulos | 2103 | [kostaspana]https://github.com/kostaspana | 
+| Kostas Panagiotopoulos | 2103 | [kostaspana](https://github.com/kostaspana) | 
